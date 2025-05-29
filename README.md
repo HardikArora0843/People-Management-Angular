@@ -1,8 +1,5 @@
 # 👥 People Management App
 
-![image](https://user-images.githubusercontent.com/your-image-link-placeholder-1.png)
-![image](https://user-images.githubusercontent.com/your-image-link-placeholder-2.png)
-![image](https://user-images.githubusercontent.com/your-image-link-placeholder-3.png)
 
 A modern, responsive **Single Page Application (SPA)** built with **Angular** to manage a list of people.  
 It allows you to **list**, **edit**, and **delete** people using RESTful API endpoints. Clean component architecture, theme toggle, reusable dialogs, and notification services included.
@@ -148,6 +145,8 @@ TypeScript
 Node.js
 
 Angular CLI
+
+---
 
 
 > Thank you for checking out my project!
