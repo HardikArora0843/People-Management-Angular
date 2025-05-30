@@ -1,5 +1,16 @@
 # 👥 People Management App
 
+![DarkMode](https://github.com/user-attachments/assets/a912ffce-869c-4e3d-b485-018b8aee887e)
+
+![LightMode](https://github.com/user-attachments/assets/79e2ae71-a62e-43bc-9f30-b44b57e6f305)
+
+![EditPerson](https://github.com/user-attachments/assets/9148caf6-f6b8-4bd7-81bc-beb8a62b98ae)
+
+![AddPerson](https://github.com/user-attachments/assets/dd308d69-8de7-4fcc-b1c8-7ec0f3f87f56)
+
+![EditPersonDarkMode](https://github.com/user-attachments/assets/6dc90a84-3838-4327-85bb-8538c9b2e567)
+
+
 
 A modern, responsive **Single Page Application (SPA)** built with **Angular** to manage a list of people.  
 It allows you to **list**, **edit**, and **delete** people using RESTful API endpoints. Clean component architecture, theme toggle, reusable dialogs, and notification services included.
