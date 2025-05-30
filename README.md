@@ -48,6 +48,11 @@ It allows you to **list**, **edit**, and **delete** people using RESTful API end
 ---
 
 ## 🛠️ Tech Stack
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 
 - **Framework:** Angular
 - **Language:** TypeScript
