@@ -78,8 +78,8 @@ people-management-app/
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/people-management-app.git
-cd people-management-app
+git clone https://github.com/HardikArora0843/People-Management-Angular.git
+cd People-Management-Angular
 
 ```
 
@@ -102,11 +102,9 @@ npm run dev
 ## 📡 API Integration
 The app fetches and manipulates data via external API endpoints:
 
-GET /people – Fetch list of people
-
-PUT /people/:id – Update a person's info
-
-DELETE /people/:id – Delete a person
+- GET /people – Fetch list of people
+- PUT /people/:id – Update a person's info
+- DELETE /people/:id – Delete a person
 
 These are integrated using Angular’s HttpClient in a reusable service class.
 
@@ -125,26 +123,21 @@ Each view is linked via Angular's Router system.
 ---
 
 ## 🖌️ Design Highlights
-Component-Driven: Reusable UI pieces like dialogs and spinners for maintainability.
 
-Theme Support: Toggle between light and dark with a click.
-
-Service-Based Architecture: Centralized logic for APIs, themes, and notifications.
-
-Clean UX: Smooth navigation, helpful alerts, and keyboard accessibility.
+- Component-Driven: Reusable UI pieces like dialogs and spinners for maintainability.
+- Theme Support: Toggle between light and dark with a click.
+- Service-Based Architecture: Centralized logic for APIs, themes, and notifications.
+- Clean UX: Smooth navigation, helpful alerts, and keyboard accessibility.
 
 ---
 
 ## 🙌 Acknowledgments
-Angular
 
-RxJS
-
-TypeScript
-
-Node.js
-
-Angular CLI
+- Angular
+- RxJS
+- TypeScript
+- Node.js
+- Angular CLI
 
 ---
 
